@@ -77,3 +77,10 @@ layout: default
 
 *   **运营商区域漫游包：** Singtel、StarHub、M1 都提供针对马来西亚、印尼、泰国等邻国的**短期数据漫游包**（通常在购买本地套餐后可叠加）。价格比直接用国内卡漫游便宜得多。**在运营商App里就能买，方便。**
 *   **纯区域
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Singapore eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/singapore-data-plans)
